@@ -1,3 +1,3 @@
 # cousera-test
 cousera test repository 
-theme: jeykll-theme-
+theme: jeykll-theme-cayman
