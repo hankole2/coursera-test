@@ -29,4 +29,6 @@ section .content-box{
 #chicken{
 	font-size: 1.6em;
 }
-
+div .container-fluid{
+	margin:0;
+}
